@@ -1,0 +1,86 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1600970185792' stop='1600970220370'>
+    <name>Create User:</name>
+    <title>Create User:</title>
+    <test-cases>
+        <test-case start='1600970193506' status='passed' stop='1600970210694'>
+            <name>Login with success</name>
+            <title>Login with success</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1600970198649' status='passed' stop='1600970206864'>
+                    <name>I am on page "/"</name>
+                    <title>I am on page "/"</title>
+                    <attachments>
+                        <attachment title='Screenshot of step I am on page "/"' source='979cdc13-e6c2-4187-82b9-a995695f58c4-attachment.png' type='image/png' size='1321067'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1600970206864' status='passed' stop='1600970207180'>
+                    <name>I set cookie [{"domain":".automationpractice.com","expiry":1602366924,"httpOnly":true,"name":"PrestaShop-a30a9934ef476d11b6cc3c983616e364","path":"/","secure":false,"value":"PogbNc82M5pfxrDr6mKBPNptdzI4Afv4%2BcF%2BRStEtp0Sg1jbM3F1XBVO3QTOCkFZXlF%2BjB1mQTGs1Mw2os9ZeKkms1%2FNnsgNd8CGyMVMiSclFHKecxPnYLH2uLGaaPy293IbckAV48O31QWusRUlUe1KqdXcA06jXqFdbN5Tk6X4qhOP0BU53WV8tZPbns4cG2n%2BrqjJmyewU7QqrgILWjI7ZWmHZu3patpRPNycjb%2BOOoPV1g7OByeTcXataqnOJtuKZxmpkTX98C14bzEArbAuqyCqy8LYnpexSGluU8MgHDIdBDl%2BuGKvReqDTGF2onUubVSKbBzsKQzwcIWs%2F4b5uifKGOMcCD4mLUVvrl5sD4j5vjseimEqF1sN2Z5KWXoiWBP5fi%2FOE5jTsWEvlg%3D%3D000304"}]</name>
+                    <title>I set cookie [{"domain":".automationpractice.com","expiry":1602366924,"httpOnly":true,"name":"PrestaShop-a30a9934ef476d11b6cc3c983616e364","path":"/","secure":false,"value":"PogbNc82M5pfxrDr6mKBPNptdzI4Afv4%2BcF%2BRStEtp0Sg1jbM3F1XBVO3QTOCkFZXlF%2BjB1mQTGs1Mw2os9ZeKkms1%2FNnsgNd8CGyMVMiSclFHKecxPnYLH2uLGaaPy293IbckAV48O31QWusRUlUe1KqdXcA06jXqFdbN5Tk6X4qhOP0BU53WV8tZPbns4cG2n%2BrqjJmyewU7QqrgILWjI7ZWmHZu3patpRPNycjb%2BOOoPV1g7OByeTcXataqnOJtuKZxmpkTX98C14bzEArbAuqyCqy8LYnpexSGluU8MgHDIdBDl%2BuGKvReqDTGF2onUubVSKbBzsKQzwcIWs%2F4b5uifKGOMcCD4mLUVvrl5sD4j5vjseimEqF1sN2Z5KWXoiWBP5fi%2FOE5jTsWEvlg%3D%3D000304"}]</title>
+                    <attachments>
+                        <attachment title='Screenshot of step I set cookie [{"domain":".automationpractice.com","expiry":1602366924,"httpOnly":true,"name":"PrestaShop-a30a9934ef476d11b6cc3c983616e364","path":"/","secure":false,"value":"PogbNc82M5pfxrDr6mKBPNptdzI4Afv4%2BcF%2BRStEtp0Sg1jbM3F1XBVO3QTOCkFZXlF%2BjB1mQTGs1Mw2os9ZeKkms1%2FNnsgNd8CGyMVMiSclFHKecxPnYLH2uLGaaPy293IbckAV48O31QWusRUlUe1KqdXcA06jXqFdbN5Tk6X4qhOP0BU53WV8tZPbns4cG2n%2BrqjJmyewU7QqrgILWjI7ZWmHZu3patpRPNycjb%2BOOoPV1g7OByeTcXataqnOJtuKZxmpkTX98C14bzEArbAuqyCqy8LYnpexSGluU8MgHDIdBDl%2BuGKvReqDTGF2onUubVSKbBzsKQzwcIWs%2F4b5uifKGOMcCD4mLUVvrl5sD4j5vjseimEqF1sN2Z5KWXoiWBP5fi%2FOE5jTsWEvlg%3D%3D000304"}]' source='f2f5af5f-3666-4d33-aa31-02f947fe694e-attachment.png' type='image/png' size='1321067'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1600970207181' status='passed' stop='1600970209909'>
+                    <name>I am on page "/"</name>
+                    <title>I am on page "/"</title>
+                    <attachments>
+                        <attachment title='Screenshot of step I am on page "/"' source='f0ba9f06-a17d-44a2-9738-1c83c08cbb09-attachment.png' type='image/png' size='1321952'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1600970209909' status='passed' stop='1600970210694'>
+                    <name>I see "Joao Silva"</name>
+                    <title>I see "Joao Silva"</title>
+                    <attachments>
+                        <attachment title='Screenshot of step I see "Joao Silva"' source='9fad69d8-b7c4-4923-bfaa-e9ac04ecffd0-attachment.png' type='image/png' size='1321952'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1600970211241' status='failed' stop='1600970219740'>
+            <name>Create a New User</name>
+            <title>Create a New User</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1600970214331' status='passed' stop='1600970214990'>
+                    <name>I am on page "/error"</name>
+                    <title>I am on page "/error"</title>
+                    <attachments>
+                        <attachment title='Screenshot of step I am on page "/error"' source='d4812d1e-b57c-4c7a-8dee-2861347518e8-attachment.png' type='image/png' size='48185'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1600970214990' status='failed' stop='1600970219740'>
+                    <name>home_page: accessLoginPage </name>
+                    <title>home_page: accessLoginPage </title>
+                    <attachments/>
+                    <steps>
+                        <step start='1600970214990' status='failed' stop='1600970219721'>
+                            <name>I click ".login"</name>
+                            <title>I click ".login"</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>Clickable element ".login" was not found by text|CSS|XPath</message>
+                <stack-trace>Error: Clickable element ".login" was not found by text|CSS|XPath
+                    at new ElementNotFound (/Users/qazando/Desktop/autoamcao-codeceptjs-web/node_modules/codeceptjs/lib/helper/errors/ElementNotFound.js:14:11)
+                    at assertElementExists (/Users/qazando/Desktop/autoamcao-codeceptjs-web/node_modules/codeceptjs/lib/helper/WebDriver.js:2760:11)
+                    at WebDriver.click (/Users/qazando/Desktop/autoamcao-codeceptjs-web/node_modules/codeceptjs/lib/helper/WebDriver.js:843:7)
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

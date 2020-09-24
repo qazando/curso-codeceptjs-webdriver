@@ -1,0 +1,80 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1600972085311' stop='1600972122627'>
+    <name>Login:</name>
+    <title>Login:</title>
+    <test-cases>
+        <test-case start='1600972091089' status='passed' stop='1600972105014'>
+            <name>Validade Empty E-mail On Create Account</name>
+            <title>Validade Empty E-mail On Create Account</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1600972101297' status='passed' stop='1600972103805'>
+                    <name>I click ".login"</name>
+                    <title>I click ".login"</title>
+                    <attachments>
+                        <attachment title='Screenshot of step I click ".login"' source='4b291c39-efb1-476c-99f9-1241a11d716f-attachment.png' type='image/png' size='124829'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1600972103806' status='passed' stop='1600972104390'>
+                    <name>I click "#SubmitCreate"</name>
+                    <title>I click "#SubmitCreate"</title>
+                    <attachments>
+                        <attachment title='Screenshot of step I click "#SubmitCreate"' source='8a08ce26-47bf-42bc-baaa-c44bdb07e700-attachment.png' type='image/png' size='124538'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1600972104390' status='passed' stop='1600972105014'>
+                    <name>I see "Invalid email address."</name>
+                    <title>I see "Invalid email address."</title>
+                    <attachments>
+                        <attachment title='Screenshot of step I see "Invalid email address."' source='75ebaf34-a098-4379-b6e1-7001ab2a5435-attachment.png' type='image/png' size='128946'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot of step I am on page "/"' source='3e01c180-0bb9-43f9-8618-4045156f8004-attachment.png' type='image/png' size='971701'/>
+            </attachments>
+        </test-case>
+        <test-case start='1600972105071' status='passed' stop='1600972114583'>
+            <name>Validade Empty E-mail On Create Account 2</name>
+            <title>Validade Empty E-mail On Create Account 2</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1600972111390' status='passed' stop='1600972114583'>
+                    <name>I click ".login"</name>
+                    <title>I click ".login"</title>
+                    <attachments>
+                        <attachment title='Screenshot of step I click ".login"' source='cda4f281-e0f6-4fed-bb0d-540a8d31782c-attachment.png' type='image/png' size='124829'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot of step I am on page "/"' source='db0c3a21-8c25-43dd-b0cf-9c36c5a02d91-attachment.png' type='image/png' size='971701'/>
+            </attachments>
+        </test-case>
+        <test-case start='1600972114639' status='passed' stop='1600972122572'>
+            <name>Validade Empty E-mail On Create Account 3</name>
+            <title>Validade Empty E-mail On Create Account 3</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1600972120612' status='passed' stop='1600972122571'>
+                    <name>I click ".login"</name>
+                    <title>I click ".login"</title>
+                    <attachments>
+                        <attachment title='Screenshot of step I click ".login"' source='be7733cb-5caa-4e23-b0dd-e9f7ec5ae99d-attachment.png' type='image/png' size='124829'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Screenshot of step I am on page "/"' source='5120e5d5-9ee6-40cd-bdb9-381164d1f684-attachment.png' type='image/png' size='971705'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

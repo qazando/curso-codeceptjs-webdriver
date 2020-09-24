@@ -1,0 +1,48 @@
+15:28:11.162 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {
+    "args": [
+      "--window-size=1920,1200"
+    ]
+  }
+}
+15:28:11.164 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 11201
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+15:28:13.109 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+15:28:13.135 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 90dbe6179cdb178fdb1f80bac6131c93 (org.openqa.selenium.chrome.ChromeDriverService)
+15:28:25.073 INFO [ActiveSessions$1.onStop] - Removing session 90dbe6179cdb178fdb1f80bac6131c93 (org.openqa.selenium.chrome.ChromeDriverService)
+15:28:25.133 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {
+    "args": [
+      "--window-size=1920,1200"
+    ]
+  }
+}
+15:28:25.133 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 45296
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+15:28:26.291 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+15:28:26.292 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session cc66f5962dd1fbc36b86e062a1f10c84 (org.openqa.selenium.chrome.ChromeDriverService)
+15:28:34.638 INFO [ActiveSessions$1.onStop] - Removing session cc66f5962dd1fbc36b86e062a1f10c84 (org.openqa.selenium.chrome.ChromeDriverService)
+15:28:34.701 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "browserName": "chrome",
+  "goog:chromeOptions": {
+    "args": [
+      "--window-size=1920,1200"
+    ]
+  }
+}
+15:28:34.701 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 29112
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+15:28:35.820 INFO [ProtocolHandshake.createSession] - Detected dialect: W3C
+15:28:35.821 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 82b8620cf9d76f6bdf55653c2f21103b (org.openqa.selenium.chrome.ChromeDriverService)
+15:28:42.626 INFO [ActiveSessions$1.onStop] - Removing session 82b8620cf9d76f6bdf55653c2f21103b (org.openqa.selenium.chrome.ChromeDriverService)
